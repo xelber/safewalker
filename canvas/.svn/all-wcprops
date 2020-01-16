@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/src/com/hiran/safewalker/canvas
+END
+SafeWalkerGameCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10/trunk/src/com/hiran/safewalker/canvas/SafeWalkerGameCanvas.java
+END
+LostScreenCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10/trunk/src/com/hiran/safewalker/canvas/LostScreenCanvas.java
+END
+WonScreenCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10/trunk/src/com/hiran/safewalker/canvas/WonScreenCanvas.java
+END
+MainScreenCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10/trunk/src/com/hiran/safewalker/canvas/MainScreenCanvas.java
+END
